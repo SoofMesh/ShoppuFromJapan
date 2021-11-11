@@ -1,0 +1,14 @@
+body{
+    background-color: pink;
+    margin: auto;
+}
+#container{
+    margin: auto;
+
+}
+#scrappUrl{
+    border: 1px solid orange;
+    border-radius: 2px 2px 2px 2px;
+    height: 30px;
+    width: 80%;
+}

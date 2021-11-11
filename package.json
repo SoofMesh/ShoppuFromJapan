@@ -1,0 +1,35 @@
+{
+  "name": "shoppu",
+  "version": "1.0.0",
+  "description": "ecommerce_site",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ahmad&nawaz",
+  "license": "ISC",
+  "dependencies": {
+    "@sendgrid/mail": "^7.4.5",
+    "axios": "^0.21.1",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "cheerio": "^1.0.0-rc.9",
+    "cookie-parser": "^1.4.5",
+    "dotenv": "^10.0.0",
+    "ejs": "^3.1.6",
+    "encoding-japanese": "^1.0.30",
+    "express": "^4.17.1",
+    "iconv": "^3.0.0",
+    "jsonwebtoken": "^8.5.1",
+    "mojijs": "^3.1.0",
+    "mongoose": "^5.12.12",
+    "node-fetch": "^2.6.1",
+    "puppeteer": "^10.0.0",
+    "puppeteer-extra": "^3.1.18",
+    "puppeteer-extra-plugin-stealth": "^2.7.8",
+    "uniqid": "^5.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
